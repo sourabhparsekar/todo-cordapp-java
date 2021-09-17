@@ -33,6 +33,7 @@ lib/dokka.jar
 # User-specific stuff:
 .idea/tasks.xml
 .idea/dictionaries
+.idea/sonarlint/*
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
